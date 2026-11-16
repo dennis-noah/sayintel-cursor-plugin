@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sayintel",
+  "version": "0.1.0",
+  "description": "Turn any conference speaker page into a researched outbound campaign",
+  "author": {
+    "name": "SayIntel",
+    "url": "https://sayintel.com",
+    "email": "dennis@theonemile.com"
+  },
+  "homepage": "https://sayintel.com/docs",
+  "keywords": [
+    "sayintel",
+    "conference",
+    "outbound",
+    "sales",
+    "speakers",
+    "campaigns",
+    "mcp"
+  ],
+  "repository": "https://github.com/dennis-noah/sayintel-cursor-plugin",
+  "license": "MIT"
+}
